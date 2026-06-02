@@ -1,4 +1,4 @@
-# 
+# 免费 DaVinci Resolve 工作流 Mac OS版 | 智能 DaVinci Resolve 工作流 PC Windows版。集成 绿幕抠像 和 关键帧动画，跨平台性能最大化。
 
 
 
